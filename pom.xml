@@ -18,10 +18,14 @@
     <description>spring-demo</description>
     <modules>
         <module>Spring-02-Core-Wiring</module>
+        <module>Spring-03-Core-DI</module>
+        <module>Spring-04-Abstraction</module>
+        <module>Spring-05-Core-BeanScope</module>
+        <module>spring-review-IoC</module>
     </modules>
 
     <properties>
-        <java.version>17</java.version>
+        <java.version>11</java.version>
     </properties>
 
     <dependencies>

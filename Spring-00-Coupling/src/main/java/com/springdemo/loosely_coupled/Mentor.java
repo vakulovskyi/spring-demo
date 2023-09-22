@@ -1,2 +1,7 @@
-package com.springdemo.loosely_coupled;public interface Mentor {
+package com.springdemo.loosely_coupled;
+
+public interface Mentor {
+
+    void createAccount();
+
 }
